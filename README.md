@@ -1,5 +1,10 @@
 # The Great Suspender
 
+> NOTE: this forked version, v7.1.6, is the last release before ownership transfer to the skeevy bastard that injected malware and cause the extension to be pulled from the Chrome Store. As far as I know, this extension is safe to install, but I take no ownership of any problems it might cause, nor bugs ("issues") it might have. 
+
+> Honestly, if you want a maintained version of this extension (by someone who has vowed to keep it clean), you should get "The Marvellous Suspender", found here: 
+https://chrome.google.com/webstore/detail/the-marvellous-suspender/noogafoofpebimajpfpamcfhoaifemoa/
+
 <img src="/src/img/suspendy-guy.png" width="100px" />
 
 "The Great Suspender" is a free and open-source Google Chrome extension for people who find that chrome is consuming too much system resource or suffer from frequent chrome crashing. Once installed and enabled, this extension will automatically *suspend* tabs that have not been used for a while, freeing up memory and cpu that the tab was consuming.
